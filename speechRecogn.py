@@ -1,6 +1,6 @@
 import streamlit as st
 #import speech_recognition as sr
-import pyttsx3
+#import pyttsx3
 import time
 import pandas as pd
 
